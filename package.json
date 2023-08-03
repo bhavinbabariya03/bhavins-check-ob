@@ -1,0 +1,32 @@
+{
+  "name": "bhavins-check-obj",
+  "version": "1.0.0",
+  "description": "A library to check obj",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavinbabariya03/bhavins-check-ob.git"
+  },
+  "keywords": [
+    "bhavins check obj",
+    "check obj",
+    ""
+  ],
+  "author": "Bhavin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhavinbabariya03/bhavins-check-ob.git/issues"
+  },
+  "homepage": "https://github.com/bhavinbabariya03/bhavins-check-ob.git#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
